@@ -318,7 +318,7 @@ Special thanks to the **mentors and peers** whose encouragement, discussions, an
 
 <div align="center">
 
-  [↑ Back to Top](#tic-tac-toe)
+  [↑ Back to Top](#tic-tac-toe-angular-framework)
 
   [Authors](#authors) &nbsp;·&nbsp; [Overview](#overview) &nbsp;·&nbsp; [Features](#features) &nbsp;·&nbsp; [Structure](#project-structure) &nbsp;·&nbsp; [Results](#results) &nbsp;·&nbsp; [Quick Start](#quick-start) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
 
