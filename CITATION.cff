@@ -11,3 +11,7 @@ title: "Tic Tac Toe (Angular Framework)"
 version: 1.0.0
 date-released: 2022-06-13
 url: "https://github.com/Amey-Thakur/TIC-TAC-TOE-ANGULAR-FRAMEWORK"
+identifiers:
+  - type: other
+    value: "2022-06-13"
+    description: "Date this repository was created on GitHub."

@@ -1,0 +1,31 @@
+# Tic Tac Toe (Angular Framework)
+
+> A Tic-Tac-Toe game application developed using the Angular framework.
+
+Author: Amey Thakur, ORCID 0000-0001-5644-1575
+Co-author: Mega Satish, ORCID 0000-0002-1844-9557
+Institution: Terna Engineering College, University of Mumbai
+Programme: B.E. Computer Engineering
+Licence: CC BY 4.0, attribution required
+Repository created: 13 June 2022
+
+## What is in this repository
+
+- Mega, 6 files
+- Source Code, 32 files
+- docs, 1 file
+- screenshots, 17 files
+
+## Subject terms
+
+angular, angular-game, angular-signals, computer-engineering,
+computer-science, css, engineering, glassmorphism, html, tic-tac-toe,
+tictactoe, typescript, university-of-mumbai, web-audio-api, web-game
+
+## Where this sits
+
+- This repository: https://github.com/Amey-Thakur/TIC-TAC-TOE
+- Degree index, every subject and project: https://github.com/Amey-Thakur/COMPUTER-ENGINEERING
+- Project page: https://amey-thakur.github.io/TIC-TAC-TOE/
+- Author: https://github.com/Amey-Thakur
+- Research notes and reflections: https://amey-thakur.github.io/
